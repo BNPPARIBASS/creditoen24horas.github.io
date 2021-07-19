@@ -1,0 +1,25 @@
+Hackme 3.0 - level #6
+     Baza numerow Telekomuny Polskiej S.A.
+
+
+                     ,g
+                    ,$'
+                 ,g$$P
+              ,g$$$$$'
+        __,,g$$$$$$$P________________
+      """"""""Y$$$$$""""""""""""""""'
+             ,$$$$$P   d$$$$$$$b.
+             d$$$$$'  ,$$$$P'`Y$$$.
+            ,$$$$$P   d$$$$'  `$$$b.
+            d$$$$$'  ,$$$$P    $$$$b
+           ,$$$$$P  ,$$$$$'   ,$$$$P
+           $$$$$$:  d$$$$P   ,d$$$P'
+           `Y$$$$b.,$$$$$' ,d$$$P'
+             `Y$$$$$$$$$$$$$$P"'
+                  ,$$$$$'
+                  d$$$$P
+                 ,$$$$$'
+		 
+          [to ludzka rzecz okradac]
+Podaj nazwisko do wyszukania w bazie: 
+ 
